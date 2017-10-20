@@ -1,0 +1,24 @@
+body {
+	background-image: url("train1.jpg");
+	background-size: 100%;
+	background-attachment: fixed;
+}
+
+.jumbotron, .banner, #add-train-btn {
+	background-color: #1a0e1f;
+	color: white;
+}
+
+.panel-title {
+	padding: 20px;
+}
+
+.panel {
+	border-style: none;
+	border-radius: 6px;
+}
+
+.banner {
+	border-top-right-radius: 6px;
+	border-top-left-radius: 6px;
+}
